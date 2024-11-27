@@ -3,7 +3,6 @@
 #define MAX 100
 using namespace std;
 
-
 struct User
 {
   int id;
@@ -11,7 +10,6 @@ struct User
   string email;
   string password;
 };
-
 
 class Stack
 {
@@ -59,7 +57,7 @@ public:
     if (isEmpty())
     {
       cout << "Stack is empty\n";
-      return User(); 
+      return User();
     }
     return data[tos];
   }
@@ -74,11 +72,12 @@ public:
     cout << "Stack contents:\n";
     for (int i = tos; i >= 0; i--)
     {
-      cout << "ID: " << data[i].id << ", Name: " << data[i].name << ", Email: " << data[i].email << endl;
+      cout << "ID: " << data[i].id << endl
+           << ", Name: " << data[i].name << endl
+           << ", Email: " << data[i].email << endl;
     }
   }
 };
-
 
 int main()
 {
@@ -103,7 +102,7 @@ int main()
       cout << "Enter user details:\n";
       cout << "ID: ";
       cin >> user.id;
-      cin.ignore(); 
+      cin.ignore();
       cout << "Name: ";
       getline(cin, user.name);
       cout << "Email: ";

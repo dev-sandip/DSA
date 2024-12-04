@@ -1,3 +1,5 @@
+// implement a stack of user defined data type User with the following fields in adt
+
 #include <iostream>
 #include <string>
 #define MAX 100

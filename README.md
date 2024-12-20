@@ -55,4 +55,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For any queries regarding the assignments or implementations, feel free to reach out:
 - Email: 079bct076@ioepc.edu.np
-- GitHub: [@yourusername](https://github.com/dev-sandip)
+- GitHub: [@dev-sandip](https://github.com/dev-sandip)

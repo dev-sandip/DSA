@@ -1,6 +1,6 @@
 # Data Structures and Algorithms Lab Assignments
 
-Welcome to my Data Structures and Algorithms (DSA) repository! This repository contains my solutions and implementations for various DSA lab assignments under the instruction of Mr. Pukar Karki.
+Welcome to my Data Structures and Algorithms (DSA) repository! This repository contains my solutions and implementations for various DSA lab assignments under the instruction of [Lecturer Er.Pukar Karki](https://karkipukar.com.np/).
 
 ## Lab Assignments
 
